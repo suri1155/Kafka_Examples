@@ -1,11 +1,11 @@
-## This example with confluent-kafka python library
+## This example with Quickstream python library
 ## How to Run
 ### Run local Kafka
 ```cmd
 docker-compose up -d
 ```
 
-### install requirements
+### install quickstream requirements
 ```cmd
 pip install -r requirements.txt
 ```
